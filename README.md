@@ -17,7 +17,7 @@ Laboratory and tests for JAVA Exam
 <span style="width: 10px; height: 10px; background-color: yellow; display: inline-block; margin-right: 10px;"></span>
 Лабораторна робота 4.2: **[клац сюди](https://github.com/Ch1llouter/JavaLab/tree/main/lab42)**
 <br />
-Лабораторна робота 5: **[клац сюди](https://github.com/Ch1llouter/laboratory work/src/main/java/org/dut/lab5)**
+Лабораторна робота 5: **[клац сюди](https://github.com/Ch1llouter/JavaLab/tree/main/laboratory%20work/src/main/java/org/dut/lab5)**
 <br />
 
 *Тут повний список виконаних завдань, він може оновлюватись..*
