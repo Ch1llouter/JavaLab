@@ -40,7 +40,7 @@ Laboratory and tests for JAVA Exam
 <span style="width: 10px; height: 10px; background-color: lime; display: inline-block; margin-right: 10px;"></span>
 Тести до лабараторної роботи 4.2 можна знайти **[тут)](laboratory%20work%2Fsrc%2Ftest%2Fjava%2Forg%2Fdut%2Flab42)**
 <br />
-Тести до лабароторної роботи 5 можна знайти **[тут)](laboratory work/src/test/java/org/dut/lab5/BankTests.java)**
+Тести до лабароторної роботи 5 можна знайти **[тут)](https://github.com/Ch1llouter/JavaLab/blob/main/laboratory%20work/src/test/java/org/dut/lab5/BankTests.java)**
 <br />
 
 
