@@ -12,10 +12,10 @@ Laboratory and tests for JAVA Exam
 Лаб. робота 3: **[клац сюди](laboratory%20work%2Fsrc%2Fmain%2Fjava%2Forg%2Fdut%2Flab3)**
 <br />
 <span style="width: 10px; height: 10px; background-color: red; display: inline-block; margin-right: 10px;"></span>
-Лаб. робота 4.1: **[клац сюди](laboratory%20work%2Fsrc%2Fmain%2Fjava%2Forg%2Fdut%2Flab41)**
+Лаб. робота 4.1: **[клац сюди](https://github.com/Ch1llouter/JavaLab/tree/main/lab41)**
 <br />
 <span style="width: 10px; height: 10px; background-color: yellow; display: inline-block; margin-right: 10px;"></span>
-Лабараторна робота 4.2: **[клац сюди](laboratory%20work%2Fsrc%2Fmain%2Fjava%2Forg%2Fdut%2Flab42)**
+Лабараторна робота 4.2: **[клац сюди](https://github.com/Ch1llouter/JavaLab/tree/main/lab42)**
 <br />
 
 *Тут повний список виконаних завдань, він може оновлюватись..*
